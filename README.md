@@ -60,11 +60,7 @@ I love building clean, purposeful, and user-centred software that makes a real-w
 📊 **GitHub Stats**
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=9ali-oop&theme=nord" alt="GitHub Streak" />
-  </a>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9ali-oop&layout=compact&hide=html,css&theme=nord" alt="Top Languages" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=9ali-oop&theme=nord&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </p>
 
 
