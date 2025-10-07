@@ -69,13 +69,11 @@ I love building clean, purposeful, and user-centred software that makes a real-w
 
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<!--📌 **Featured Projects**-->
-<p></p>
-<!-- <p align="left">
-  <a href="https://github.com/9ali-oop/masjid-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=9ali-oop&repo=masjid-website&theme=radical" alt="Masjid Website" />
+📌 **Featured Projects**
+<p align="left">
+  <a href="https://github.com/9ali-oop/movies-watchlist">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=9ali-oop&repo=movies-watchlist&theme=radical" alt="Movies Watchlist" />
   </a>
-  <a href="https://github.com/9ali-oop/arabic-teaching-site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=9ali-oop&repo=arabic-teaching-site&theme=radical" alt="Arabic Teaching Site" />
-  </a>
-</p> -->
+</p>
+
+
