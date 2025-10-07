@@ -60,20 +60,16 @@ I love building clean, purposeful, and user-centred software that makes a real-w
 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=9ali-oop&show_icons=true&hide=issues&hide_rank=false&theme=radical" alt="Ali's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9ali-oop&layout=compact&hide=html,css&theme=radical" alt="Top Languages" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=9ali-oop&theme=nord" alt="GitHub Streak" />
+  </a>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9ali-oop&layout=compact&hide=html,css&theme=nord" alt="Top Languages" />
 </p>
+
 
 ✍️ **Random Dev Quote**
-
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-📌 **Featured Projects**
-<p align="left">
-  <a href="https://github.com/9ali-oop/movies-watchlist">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=9ali-oop&repo=movies-watchlist&theme=radical" alt="Movies Watchlist" />
-  </a>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Readme Quotes" />
 </p>
-
 
