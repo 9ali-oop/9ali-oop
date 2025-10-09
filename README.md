@@ -60,8 +60,11 @@ I love building clean, purposeful, and user-centred software that makes a real-w
 📊 **GitHub Stats**
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=9ali-oop&theme=nord&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=9ali-oop&theme=nord&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
+  </a>
 </p>
+
 
 
 ✍️ **Random Dev Quote**
